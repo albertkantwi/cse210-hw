@@ -1,0 +1,16 @@
+{
+  "Levels": {
+    "OldLevel": null,
+    "NewLevel": null
+  },
+  "Goals": [
+    {
+      "$type": "simple",
+      "ShortName": "course completion",
+      "Description": "I want to get diploma this year",
+      "Points": 56,
+      "Complete": false
+    }
+  ],
+  "Score": 0
+}

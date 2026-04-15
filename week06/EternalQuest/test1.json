@@ -1,0 +1,24 @@
+{
+  "Levels": {
+    "OldLevel": null,
+    "NewLevel": null
+  },
+  "Goals": [
+    {
+      "$type": "simple",
+      "ShortName": "loose weight",
+      "Description": "5lbs",
+      "Points": 40,
+      "Complete": false
+    },
+    {
+      "$type": "eternal",
+      "CompletedCount": 0,
+      "ShortName": "go to school",
+      "Description": "get admission",
+      "Points": 111,
+      "Complete": false
+    }
+  ],
+  "Score": 0
+}
